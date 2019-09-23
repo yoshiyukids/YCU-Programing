@@ -1,6 +1,6 @@
 # 文字列 str型
 
-## [公式](https://docs.python.org/ja/3/library/stdtypes.html#str)
+[公式](https://docs.python.org/ja/3/library/stdtypes.html#str)
 
 ### 作成
 - [str(object)の結果]()
