@@ -5,6 +5,6 @@
 ２、エラーに対するデバッグ力、調べ力を上げる。
 
 # 内容
-第一回：[基底クラス　object](https://github.com/YutaUra/YCU-Programing/tree/master/Python_understanding/%231_str)
+第一回：[基底クラス　object](https://github.com/YutaUra/YCU-Programing/tree/master/Python_understanding/$1_object)
 
 第二回：[]()
