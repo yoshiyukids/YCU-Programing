@@ -7,4 +7,4 @@
 # 内容
 第零回：[基底クラス object型](https://github.com/YutaUra/YCU-Programing/tree/master/Python_understanding/%240_object)
 
-第一回：[文字列 str型]()
+第一回：[文字列 str型](https://github.com/YutaUra/YCU-Programing/tree/master/Python_understanding/%241_str)
