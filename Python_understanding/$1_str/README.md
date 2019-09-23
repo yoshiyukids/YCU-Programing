@@ -51,4 +51,5 @@
 - upper()
 - zfill(width)
 
-### [printf形式の文字列書式化](https://docs.python.org/ja/3/library/stdtypes.html#printf-style-string-formatting)
+### printf形式の文字列書式化
+[公式](https://docs.python.org/ja/3/library/stdtypes.html#printf-style-string-formatting)
