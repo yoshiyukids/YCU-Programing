@@ -5,6 +5,6 @@
 ２、エラーに対するデバッグ力、調べ力を上げる。
 
 # 内容
-第一回：[テキストシークエンス型 str](https://docs.python.org/ja/3/library/stdtypes.html#str)
+第一回：[テキストシークエンス型 str](https://github.com/YutaUra/YCU-Programing/tree/master/Python_understanding/%231_str)
 
 第二回：[]()
