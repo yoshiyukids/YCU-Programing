@@ -2,7 +2,7 @@
 
 ## [公式リンク](https://docs.python.org/ja/3/library/functions.html?highlight=object#object)
 
-Pythonにおける全ての型の基底クラス（親玉）になっています。
+Pythonにおける[全ての型](https://docs.python.org/ja/3/library/stdtypes.html)の基底クラス（親玉）になっています。
 全ての型とは...
 - bool型(True,False)
 - 数字系: int型, float型, complex型(1, 3.5, i+2)
